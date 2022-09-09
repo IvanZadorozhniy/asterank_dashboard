@@ -1,0 +1,20 @@
+ body {
+    font-family: "Century Gothic";
+ }
+
+ div {
+    text-align: center;
+    /* margin-top: 10px; */
+ }
+h1{
+    margin-top: 30px;
+}
+.selector_wrapper, .selector_wrapper>div {
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+}
+#submit-value-btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
